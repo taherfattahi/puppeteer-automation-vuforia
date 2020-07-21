@@ -1,0 +1,17 @@
+{
+  "name": "testvu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "extract-zip": "^2.0.1",
+    "form-data": "^3.0.0",
+    "puppeteer": "^5.2.0"
+  }
+}
